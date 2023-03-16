@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-  *main : Indicates the main function
-  *return: success compile returns 0
-  *printf : Shows output or results
+ * main - this is the main function
+ * Return: always 0
+ * printf - Shows output or results
 */
 int main(void)
 {
